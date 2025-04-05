@@ -1,2 +1,2 @@
 # demo
-It is for the practice.
+It is for the demo practice.
